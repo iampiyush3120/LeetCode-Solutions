@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
@@ -35,8 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
