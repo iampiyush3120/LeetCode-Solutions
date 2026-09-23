@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Memoization
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
