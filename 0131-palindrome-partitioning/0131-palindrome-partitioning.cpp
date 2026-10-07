@@ -1,36 +1,43 @@
-#include <vector>
-#include <string>
-
-using namespace std;
-
 class Solution {
 public:
-    vector<vector<string>> partition(string s) {
-        vector<vector<string>> res;
-        vector<string> path;
-        dfs(0, s, path, res);
-        return res;
-    }
 
-private:
-    void dfs(int index, const string& s, vector<string>& path, vector<vector<string>>& res) {
-        if (index == s.size()) {
-            res.push_back(path);
-            return;
-        }
-        for (int i = index; i < s.size(); ++i) {
-            if (isPalindrome(s, index, i)) {
-                path.push_back(s.substr(index, i - index + 1));
-                dfs(i + 1, s, path, res);
-                path.pop_back(); // backtrack
+     bool isPalindrome(string &s, int i,int j){
+        while(i<j){
+            if(s[i]!=s[j]){
+                return false;
             }
-        }
-    }
-
-    bool isPalindrome(const string& s, int l, int r) {
-        while (l < r) {
-            if (s[l++] != s[r--]) return false;
+            i++,j--;
         }
         return true;
+     }
+
+
+    void recur(int i,vector<string> &cur , vector<vector<string>> &ans,string &s){
+
+        //base case
+        if(i>=s.size()){
+            ans.push_back(cur);
+            return;
+        }
+
+
+
+        //choices and validity check
+        for(int j=i ; j<s.size() ; j++){
+            if(isPalindrome(s,i,j)==true){
+                //do partition
+                cur.push_back(s.substr(i,j-i+1));
+                recur(j+1,cur,ans,s);
+                cur.pop_back();    //back track
+            }
+        }
+}
+    vector<vector<string>> partition(string s) {
+        vector<string> cur;
+        vector<vector<string>>ans;
+
+        recur(0,cur,ans,s);
+        return ans;
+        
     }
 };
