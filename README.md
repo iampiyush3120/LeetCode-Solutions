@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3457-eat-pizzas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3457-eat-pizzas) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
