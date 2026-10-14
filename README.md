@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3457-eat-pizzas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3457-eat-pizzas) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
