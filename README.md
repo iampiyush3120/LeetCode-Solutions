@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3457-eat-pizzas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3457-eat-pizzas) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
