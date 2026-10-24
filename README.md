@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2409-count-days-spent-together](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
