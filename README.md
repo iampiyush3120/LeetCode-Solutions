@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0739-daily-temperatures](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -180,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
