@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0735-asteroid-collision](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [0875-koko-eating-bananas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -273,5 +275,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
