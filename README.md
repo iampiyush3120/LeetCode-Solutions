@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3457-eat-pizzas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3457-eat-pizzas) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
