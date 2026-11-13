@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3457-eat-pizzas](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3457-eat-pizzas) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/iampiyush3120/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
